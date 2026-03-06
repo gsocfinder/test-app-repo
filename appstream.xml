@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.taskflow</id>
+  <name>TaskFlow</name>
+  <summary>A minimal kanban board for personal task management</summary>
+
+  <description>
+    <p>TaskFlow is a lightweight kanban-style task manager that helps you organize your work into columns: To Do, In Progress, and Done.</p>
+    <p>Key features:</p>
+    <ul>
+      <li>Drag-and-drop cards between columns</li>
+      <li>Keyboard shortcuts for power users</li>
+      <li>Local storage — no account required</li>
+      <li>Export and import boards as JSON</li>
+    </ul>
+    <p>TaskFlow is built for people who want a <em>simple</em> tool without the overhead of complex project management software.</p>
+  </description>
+
+  <icon type="remote">https://raw.githubusercontent.com/nickvdg/free-flaticons/main/svg/044-clipboard.svg</icon>
+
+  <developer>
+    <name>TaskFlow Contributors</name>
+  </developer>
+
+  <project_license>Apache-2.0</project_license>
+  <metadata_license>CC0-1.0</metadata_license>
+
+  <categories>
+    <category>Office</category>
+    <category>ProjectManagement</category>
+  </categories>
+
+  <keywords>
+    <keyword>kanban</keyword>
+    <keyword>tasks</keyword>
+    <keyword>productivity</keyword>
+    <keyword>board</keyword>
+  </keywords>
+
+  <url type="homepage">https://github.com/example/taskflow</url>
+  <url type="bugtracker">https://github.com/example/taskflow/issues</url>
+  <url type="vcs-browser">https://github.com/example/taskflow</url>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://via.placeholder.com/800x500/2a9d8f/ffffff?text=TaskFlow+Board</image>
+      <caption>The main kanban board view</caption>
+    </screenshot>
+  </screenshots>
+
+  <releases>
+    <release version="1.2.0" date="2025-02-20">
+      <description>
+        <p>Added keyboard shortcuts and JSON export/import.</p>
+      </description>
+    </release>
+    <release version="1.1.0" date="2025-01-05">
+      <description>
+        <p>Drag-and-drop support and dark mode.</p>
+      </description>
+    </release>
+    <release version="1.0.0" date="2024-10-15">
+      <description>
+        <p>Initial release with basic kanban functionality.</p>
+      </description>
+    </release>
+  </releases>
+
+  <content_rating type="oars-1.1" />
+</component>
