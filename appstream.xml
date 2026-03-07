@@ -13,6 +13,7 @@
   <url type="bugtracker">https://support.discord.com/hc/categories/115000168371</url>
   <url type="contact">https://discord.com/company-information</url>
   <launchable type="desktop-id">com.discordapp.Discord.desktop</launchable>
+  <icon type="remote">https://samisthefbi.github.io/_astro/git.Cz_9VnPU.svg</icon>
   <description>
     <p>Discord is a free all in one messaging, voice, and video client thats available on your computer and phone.</p>
     <p>Whether you’re part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often.</p>
